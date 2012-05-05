@@ -1,0 +1,83 @@
+//This ending only happens if the h-scene has been unlocked; the protagonist loves the heroine enough so that he is prepared to give his life for her
+
+
+[protagonist] HEY! OVER HERE! 
+[narrator] I launched the flare. 
+The ship saw us and started turning. 
+As they got closer, I made out a flag and a few big guns.
+[protagonist] Whoa, that's a U.S. destroyer! Wonder what it's doing out here.
+[protagonist's friend] Dude, really? That's awesome. I wish my eyesight wasn't so bad.
+[narrator] The ship pulled in to our little bay and sent a longboat ashore.
+The men looked heavily armed; I was a little nervous, but still confident.
+[protagonist - to heroine, hiding in bush] You have to be careful not to startle them. Don't come out until I tell you to,  OK?
+[narrator] She nodded.
+[narrator] The men reached the shore, and I hailed them. 
+Everything was going smoothly, until suddenly (heroine) charged out of the bush hissing  loudly.
+It seems she upset some bird that had made its home there - it was perched on her  head, pecking her, quite a comical sight under any other circumstances. 
+The soldiers had a different impression.
+A half-woman, half-snake was charging at them, hissing, with bared fangs in a vicious snarl.
+You can imagine the fright.
+They immediately pointed their weapons at her, demanding that she stop, but...
+I never had the time to teach (heroine) English, and she had no idea wha a gun was.
+
+[CHOICE 1] Tackle her and take the bullets.
+[CHOICE 2] Try to explain the situation.
+
+
+[CHOICE 1] - tackle her and take the bullets
+
+[TRACK] Sad, but hopeful; a sort of "You're gonna get through this" kind of feel. Peaceful, but timid; piano only.
+[narrator] I charged at (heroine) and tackled her into the ground, bullets tearing into my back.
+[CG] behind hero of hero tackling heroine, three shots impacting on his back, heroine looks stunned and scared
+[narrator] Chaos erupted behind us. 
+I could feel the life fading from my limbs. I was badly hurt.
+But (heroine) was safe, and (protagonist's friend) seemed to be explaining the situation.
+[heroine] What's going on? (protagonist), why did they hurt you? (IF we get voice actors (which is highly unlikely), panicked tone)
+[CG] from protagonist's view lying on right side, looking down at heroine in his arms, heroine looks scared with tears in her eyes, protagonist's right arm limp and lying out at a 90 degree angle from his body, left arm behind heroine's head
+[protagonist] I...I'm sorry, (heroine). Growing old together... doesn't seem likely. 
+I...
+[narrator] The light started fading.
+[CG] Top-down view, protagonist and heroine lying in each others arms on the beach, protagonist about to pass out (arms in the same  position), heroine panicking, protagonist kissing heroine - his face should be underneath hers, I want him to remain faceless so the reader feels more like it's their story, not somebody else's
+[narrator ]All I could do was kiss her, one last time.
+[CG] fade to black
+[narrator] The lights went out. 
+The chaos faded to a dull throb.
+I could hear (heroine) hissing and howling while (protagonist's friend) tried to convince her to let me go.
+I could feel her tail coiled around my legs, almost crushing them.
+Somebody tore my shirt open, pressing something soft against the wounds, and I passed out.
+...
+[TRACK] Happy, but slow and peaceful; gradually gets stronger and more joyful
+[CG] fades in from black, but still blurred at this point - protagonist's view lying on a bed in destroyer's sickbay, heroine's face looks teary and scared
+I'm still somewhat surprised that I woke up.
+[CG] Previous image sharpens
+When I did, I thought I was in heaven.
+The first thing I saw was (heroine)'s face. She was covered in tears, and still panicking.
+All I could do was blurt out some garbled Japanese, but she must have understood, because she gave me a teary smile and said the same thing back to me.
+[CG] Heroine smiles, fresh tears.
+[heroine] I love you.
+
+==PART A GOOD END - PROGRESS TO PART B==
+
+
+[CHOICE 2] - try to explain the situation
+[TRACK] Sad and despairing, loud and chaotic, "all hope is lost" feel, piano only
+[protatonist] Wait, don't sh-
+[CG]
+[narrator] It was too late. The muzzles flashed, and (heroine) dropped to the sand.
+[protagonist] no... NO!
+[narrator] I ran up to her. She was still squirming around, the way a snake writhes when you cut off its head.
+[CG] From protagonist's view, protagonist holding heroine on the ground, hand supporting her head, other arm behind her back, heroine has been shot between the eyes, tongue lolling, eyes wide in fear, rolled up into the back of her head; two more shots in her chest
+[narrator] I went numb. I felt nothing. All I could do was try to kiss her, once her death theroes ended.
+...
+[TRACK] Sad and despairing, but peaceful and accepting; piano only
+[CG] from behind protagonist, standing over heroine's grave, tears flowing down his cheeks - still can't see his face
+[narrator] (protagonist's friend) had gone with the destroyer, but I opted to stay on the island.
+Nothing brought me joy anymore, even now, a year later. 
+[CG] Same perspective as the last one, protagonist kneeling in front of heroine's grave, holding a knife in Japanese ritual suicide position
+[protagonist] I said I'd follow you to hell and beyond, so I will.
+[CG] fade to black
+[SFX] knife-tearing-flesh, grunt of pain
+[CG] Black screen, blood splashes across
+[narrator] I'm coming, (heroine).
+
+==PART A TRAGIC BAD END 1 - BOTH DIE, NO PROGRESSION==
