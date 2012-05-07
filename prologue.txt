@@ -1,0 +1,17 @@
+I'm just writing story until I learn what I need of Python.
+
+[TRACK] everyday pleasantries
+[CG] Marine bio lab, detail isn't important here, go wild as long as it looks like what it's supposed to
+[SFX] bubbles (fishtanks)
+[narrator] Another comfortable day. And they told me life in America would be hard.
+[SCENE] random coworker enters, doesn't matter what he looks like
+[coworker] Oi, (protagonist), boss wants to see you.
+[protagonist] Alright, on my way.
+...
+[CG] stairway, then office, perfectly neat, with harsh white lighting
+[protagonist] You wanted to see me, sir?
+[SCENE] Stout, portly man, small moustache, dressed in a lab coat over a button-down with a tie and slacks,  cheerful expression
+[boss] Ah, (protagonist), yes. I have a... request to make.
+You see, the team down in California is undermanned, and -
+[protagonist] Stop stop stop. The answer's no. I hate hot weather more than anything.
+[boss] I figured you'd say that.
