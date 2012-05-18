@@ -2,11 +2,17 @@
 [CG] Marine bio lab, detail isn't important here, go wild as long as it looks like a bio lab
 [SFX] bubbles (fishtanks)
 [narrator] Another comfortable day. And they told me life in America would be hard.
+Cape Cod really is great, nice and cold in the winter, complimentary AC in the summer...
+Great restaurants right around the corner, and even if I DO get dragged off to the beach, the sea breeze is real pleasant...
+Doesn't get much better than this.
 [SCENE] random coworker enters, doesn't matter what he looks like
 [coworker] Oi, (protagonist), boss wants to see you.
 [protagonist] Alright, on my way.
 ...
 [CG] stairway, then office, perfectly neat, with harsh white lighting
+[narrator] Guh.
+I hate this room.
+How he can stand being in it all day I'll never know.
 [protagonist] You wanted to see me, sir?
 [CG] Stout, portly man, small moustache, dressed in a lab coat over a button-down with a tie and slacks,  cheerful expression
 [boss] Ah, (protagonist), yes. I have a... request to make.
@@ -16,17 +22,19 @@ You see, the team down in California is undermanned, and -
 As such, I've taken countermeasures.
 You're one of the best guys I've got, so I won't force you to go, but there's half a million in it for you if you do.
 [protagonist] five hundred grand?!
-[boss] Assuming, of course, you actually find what we're looking for.
+[boss] On top of your regular salary.
+Assuming, of course, you actually find what we're looking for.
 [protagonist] Which is...?
 [boss] We're not sure.
 [narrator] Awesome.
-You'll know it when you see it, though.
+[boss] You'll know it when you see it, though.
 [narrator] That makes things so much easier.
 [protagonist] And how long do we have?
 [boss] Six months. I'm predicting you'll only need two at most. 
 According to reports, we're dealing with something weird.
 [protagonist] How weird?
 [boss] ...weird.
+Pro squash player with Down's Syndrome weird.
 [narrator] Something weird, and I'll know it when I see it. 
 Probably a new species of invisible jellyfish. 
 Still, five hundred grand,  for less than two months...
@@ -35,6 +43,11 @@ No more shitty rides in on the train.
 [protagonist] Alright, you got me. What and when.
 [TRACK] "victory" - bright and bouncy, mocking tones
 [CG] boss smiles
+[boss] Great. Here's the contract.
+[protagonist] What, it doesn't fall under the other one?
+[boss] No, that only covers lab work.
+This one also includes a special release form.
+[narrator] I signed it without giving it much thought. He's one hell of a quirky guy, probably thinks I'd sue him if I stubbed my toe.
 [boss] You'll be leaving next Monday.
 [narrator] Great way to spend my twentieth birthday; on a plane taking me somewhere hot and humid. During my favorite season, no less.
 [boss] Once you arrive, the work'll be pretty much what you do here, just... 
@@ -58,9 +71,6 @@ When I said weird, I meant weird.
 I'll keep that in mind.
 [narrator] I've actually never seen the man so serious before.
 [CG] stairs
-[narrator] Crap.
-This is bad.
-...
-I'm actually interested.
+[narrator] What the hell am I doing?
 
 ===END PROLOGUE - BEGIN PART A===
