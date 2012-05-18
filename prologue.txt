@@ -15,7 +15,7 @@ You see, the team down in California is undermanned, and -
 [boss] I figured you'd say that.
 As such, I've taken countermeasures.
 You're one of the best guys I've got, so I won't force you to go, but there's half a million in it for you if you do.
-[protagonist] five hundred?!
+[protagonist] five hundred grand?!
 [boss] Assuming, of course, you actually find what we're looking for.
 [protagonist] Which is...?
 [boss] We're not sure.
